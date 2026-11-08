@@ -1,0 +1,3367 @@
+fileFormatVersion: 2
+guid: 75d737be88dc2084796df6ecd1665712
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6176110321221878314
+    second: Hearth_0
+  - first:
+      213: 4202404719813809715
+    second: Hearth_1
+  - first:
+      213: 6518848541423996108
+    second: Hearth_2
+  - first:
+      213: -7372539750381239285
+    second: Hearth_3
+  - first:
+      213: -4803809014963250658
+    second: Hearth_4
+  - first:
+      213: -4422310086201186722
+    second: Hearth_5
+  - first:
+      213: -7857572074573950141
+    second: Hearth_6
+  - first:
+      213: 5704981462970415284
+    second: Hearth_7
+  - first:
+      213: 733130372892989281
+    second: Hearth_8
+  - first:
+      213: -9131796410804170317
+    second: Hearth_9
+  - first:
+      213: -4739756941035401776
+    second: Hearth_10
+  - first:
+      213: 8089430339936339421
+    second: Hearth_11
+  - first:
+      213: -1336810723213089005
+    second: Hearth_12
+  - first:
+      213: -4721911654026467767
+    second: Hearth_13
+  - first:
+      213: -5049950442289438492
+    second: Hearth_14
+  - first:
+      213: -7483740802328017738
+    second: Hearth_15
+  - first:
+      213: -8460717565295397706
+    second: Hearth_16
+  - first:
+      213: 5889222049686102336
+    second: Hearth_17
+  - first:
+      213: -783824077043358396
+    second: Hearth_18
+  - first:
+      213: -7408201350555894320
+    second: Hearth_19
+  - first:
+      213: -2556543038900362546
+    second: Hearth_20
+  - first:
+      213: -7083702117879273302
+    second: Hearth_21
+  - first:
+      213: 5904253505398947899
+    second: Hearth_22
+  - first:
+      213: 5228531960538041701
+    second: Hearth_23
+  - first:
+      213: -6918954748161936869
+    second: Hearth_24
+  - first:
+      213: 7509211102874193727
+    second: Hearth_25
+  - first:
+      213: 670930709730605555
+    second: Hearth_26
+  - first:
+      213: 1320106188135746107
+    second: Hearth_27
+  - first:
+      213: -7010876347481780574
+    second: Hearth_28
+  - first:
+      213: -6120205872039851744
+    second: Hearth_29
+  - first:
+      213: -8461983683742288014
+    second: Hearth_30
+  - first:
+      213: 7841001099499588851
+    second: Hearth_31
+  - first:
+      213: -6521842526836043622
+    second: Hearth_32
+  - first:
+      213: 1197527002079973712
+    second: Hearth_33
+  - first:
+      213: 8531809922126002548
+    second: Hearth_34
+  - first:
+      213: 9202571284369567235
+    second: Hearth_35
+  - first:
+      213: -8547428750231182485
+    second: Hearth_36
+  - first:
+      213: -5666291963299048239
+    second: Hearth_37
+  - first:
+      213: -8958930063293508264
+    second: Hearth_38
+  - first:
+      213: 1151382697653082756
+    second: Hearth_39
+  - first:
+      213: -4140377179827036066
+    second: Hearth_40
+  - first:
+      213: -2308963611260596568
+    second: Hearth_41
+  - first:
+      213: -5772248425800388875
+    second: Hearth_42
+  - first:
+      213: 6885923003956331805
+    second: Hearth_43
+  - first:
+      213: 6650886179764203079
+    second: Hearth_44
+  - first:
+      213: 4297229654352219752
+    second: Hearth_45
+  - first:
+      213: 924565572586368388
+    second: Hearth_46
+  - first:
+      213: -798038898554435686
+    second: Hearth_47
+  - first:
+      213: 605810188030333022
+    second: Hearth_48
+  - first:
+      213: -5481895176813773580
+    second: Hearth_49
+  - first:
+      213: -6495520532443510533
+    second: Hearth_50
+  - first:
+      213: 950971123762417781
+    second: Hearth_51
+  - first:
+      213: -1498111040706721728
+    second: Hearth_52
+  - first:
+      213: -5067357724104306285
+    second: Hearth_53
+  - first:
+      213: 4788728093864492280
+    second: Hearth_54
+  - first:
+      213: 1576696542170548112
+    second: Hearth_55
+  - first:
+      213: -2903596097623801039
+    second: Hearth_56
+  - first:
+      213: 7541270150852065986
+    second: Hearth_57
+  - first:
+      213: -3775066517530293829
+    second: Hearth_58
+  - first:
+      213: -9134610138209107104
+    second: Hearth_59
+  - first:
+      213: -2613310933925671672
+    second: Hearth_60
+  - first:
+      213: -8115368754896752179
+    second: Hearth_61
+  - first:
+      213: -649716854152906308
+    second: Hearth_62
+  - first:
+      213: -8919944751340257062
+    second: Hearth_63
+  - first:
+      213: -4291009257357283215
+    second: Hearth_64
+  - first:
+      213: -7448929524454678340
+    second: Hearth_65
+  - first:
+      213: -8772346322053427277
+    second: Hearth_66
+  - first:
+      213: -3418997603512570052
+    second: Hearth_67
+  - first:
+      213: 4854560610131230407
+    second: Hearth_68
+  - first:
+      213: -4972109989470951429
+    second: Hearth_69
+  - first:
+      213: -1963923113054487598
+    second: Hearth_70
+  - first:
+      213: -244851024663503045
+    second: Hearth_71
+  - first:
+      213: -2263069632773101422
+    second: Hearth_72
+  - first:
+      213: -8596945957890071582
+    second: Hearth_73
+  - first:
+      213: -2729331530479145242
+    second: Hearth_74
+  - first:
+      213: -243088103572831089
+    second: Hearth_75
+  - first:
+      213: 2326495301023064610
+    second: Hearth_76
+  - first:
+      213: 697961914339837684
+    second: Hearth_77
+  - first:
+      213: -3088470105207889087
+    second: Hearth_78
+  - first:
+      213: 5252368881243005785
+    second: Hearth_79
+  - first:
+      213: -3663526368898510651
+    second: Hearth_80
+  - first:
+      213: -8898256607203895780
+    second: Hearth_81
+  - first:
+      213: 6532202348795207181
+    second: Hearth_82
+  - first:
+      213: 8194076858211085196
+    second: Hearth_83
+  - first:
+      213: -6886142424866900695
+    second: Hearth_84
+  - first:
+      213: -7994761210774122340
+    second: Hearth_85
+  - first:
+      213: 7207923348744913168
+    second: Hearth_86
+  - first:
+      213: 8801160347275813276
+    second: Hearth_87
+  - first:
+      213: -7381680306070633418
+    second: Hearth_88
+  - first:
+      213: -7329076511667258095
+    second: Hearth_89
+  - first:
+      213: -1690088125498235210
+    second: Hearth_90
+  - first:
+      213: 172980577065062456
+    second: Hearth_91
+  - first:
+      213: 4208652851889827125
+    second: Hearth_92
+  - first:
+      213: -4851707802571466864
+    second: Hearth_93
+  - first:
+      213: -5904489792465469571
+    second: Hearth_94
+  - first:
+      213: 4741681198360664326
+    second: Hearth_95
+  - first:
+      213: 6497049132472562505
+    second: Hearth_96
+  - first:
+      213: 8134154759696040361
+    second: Hearth_97
+  - first:
+      213: -3860864453043542297
+    second: Hearth_98
+  - first:
+      213: -8847442429251740113
+    second: Hearth_99
+  - first:
+      213: 5619542316943888185
+    second: Hearth_100
+  - first:
+      213: -4215972233470225992
+    second: Hearth_101
+  - first:
+      213: 5014550782731976852
+    second: Hearth_102
+  - first:
+      213: 6287284126694869035
+    second: Hearth_103
+  - first:
+      213: -8072390764028992781
+    second: Hearth_104
+  - first:
+      213: 2876176916757847285
+    second: Hearth_105
+  - first:
+      213: 4844317364661778642
+    second: Hearth_106
+  - first:
+      213: -8603278023735154587
+    second: Hearth_107
+  - first:
+      213: 8183417856063942342
+    second: Hearth_108
+  - first:
+      213: 2734313992930327414
+    second: Hearth_109
+  - first:
+      213: -9092185510640875114
+    second: Hearth_110
+  - first:
+      213: -6155604833635215561
+    second: Hearth_111
+  - first:
+      213: 6458915445982941336
+    second: Hearth_112
+  - first:
+      213: 90433001369641826
+    second: Hearth_113
+  - first:
+      213: 3906167169373134186
+    second: Hearth_114
+  - first:
+      213: 2038320760865259367
+    second: Hearth_115
+  - first:
+      213: 4585130418816616924
+    second: Hearth_116
+  - first:
+      213: 4324697250406351940
+    second: Hearth_117
+  - first:
+      213: 6473319513972022508
+    second: Hearth_118
+  - first:
+      213: 484342954046246840
+    second: Hearth_119
+  - first:
+      213: 1422603429892077963
+    second: Hearth_120
+  - first:
+      213: 2887630799217202521
+    second: Hearth_121
+  - first:
+      213: 1195346757832062617
+    second: Hearth_122
+  - first:
+      213: -1937374366268269279
+    second: Hearth_123
+  - first:
+      213: -3241627475819736754
+    second: Hearth_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hearth_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd32f1a26c0a4aa0800000000000000
+      internalID: -6176110321221878314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3365deec3d0f15a30800000000000000
+      internalID: 4202404719813809715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc8628c53a977a50800000000000000
+      internalID: 6518848541423996108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04441e882a7fa990800000000000000
+      internalID: -7372539750381239285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 48
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1adb4e0721755db0800000000000000
+      internalID: -4803809014963250658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 58
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56e951386cc0a2c0800000000000000
+      internalID: -4422310086201186722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 58
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3439df154db44f290800000000000000
+      internalID: -7857572074573950141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 56
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b83a8e0a6a2c2f40800000000000000
+      internalID: 5704981462970415284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 48
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167165a903a9c2a00800000000000000
+      internalID: 733130372892989281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 54
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b194d4fb87554180800000000000000
+      internalID: -9131796410804170317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd84e7ac20093eb0800000000000000
+      internalID: -4739756941035401776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd54c27d80e634070800000000000000
+      internalID: 8089430339936339421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31763fedab1b27de0800000000000000
+      internalID: -1336810723213089005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946a9f05e56687eb0800000000000000
+      internalID: -4721911654026467767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0e20a14d8fae9b0800000000000000
+      internalID: -5049950442289438492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4442e0469642890800000000000000
+      internalID: -7483740802328017738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 56
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4f8af733e759a80800000000000000
+      internalID: -8460717565295397706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 54
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04120f27048bab150800000000000000
+      internalID: 5889222049686102336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445ae61a72c4f15f0800000000000000
+      internalID: -783824077043358396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 48
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddfb8b3f18c03990800000000000000
+      internalID: -7408201350555894320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 58
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2a859b6a5558cd0800000000000000
+      internalID: -2556543038900362546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8af117472a1bd90800000000000000
+      internalID: -7083702117879273302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30c825f74f10f150800000000000000
+      internalID: 5904253505398947899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d85acbd1a7f8840800000000000000
+      internalID: 5228531960538041701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_24
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b123ec2905feaff90800000000000000
+      internalID: -6918954748161936869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f4c3a66b3163860800000000000000
+      internalID: 7509211102874193727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9b46efcef9f4900800000000000000
+      internalID: 670930709730605555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a40a97595f15210800000000000000
+      internalID: 1320106188135746107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae09207b1d54be90800000000000000
+      internalID: -7010876347481780574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0290ec48f29a01ba0800000000000000
+      internalID: -6120205872039851744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 50
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277b3635caef09a80800000000000000
+      internalID: -8461983683742288014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcce13e4f4d0dc60800000000000000
+      internalID: 7841001099499588851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_32
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90d6eaa6c2cd75a0800000000000000
+      internalID: -6521842526836043622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0515aefa6787e9010800000000000000
+      internalID: 1197527002079973712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4793973bbe3176670800000000000000
+      internalID: 8531809922126002548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30eee0963d916bf70800000000000000
+      internalID: 9202571284369567235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_36
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63628f76de616980800000000000000
+      internalID: -8547428750231182485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_37
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4d8ed0b794d51b0800000000000000
+      internalID: -5666291963299048239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85592d9e29c7ba380800000000000000
+      internalID: -8958930063293508264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a942696788aff00800000000000000
+      internalID: 1151382697653082756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50a64044ec6a86c0800000000000000
+      internalID: -4140377179827036066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae428734d9e4ffd0800000000000000
+      internalID: -2308963611260596568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe2cd0b3aad4efa0800000000000000
+      internalID: -5772248425800388875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_43
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1502892d76bf8f50800000000000000
+      internalID: 6885923003956331805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e666a1eb1bc4c50800000000000000
+      internalID: 6650886179764203079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e40f95a93d2ab30800000000000000
+      internalID: 4297229654352219752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_46
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 48
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48de09d5d77b4dc00800000000000000
+      internalID: 924565572586368388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_47
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9708b699dbcce4f0800000000000000
+      internalID: -798038898554435686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_48
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 50
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e505cd20825486800800000000000000
+      internalID: 605810188030333022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_49
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc761a81656ce3b0800000000000000
+      internalID: -5481895176813773580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8c2709d764bd5a0800000000000000
+      internalID: -6495520532443510533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5705387d237823d00800000000000000
+      internalID: 950971123762417781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_52
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048c59022f3a53be0800000000000000
+      internalID: -1498111040706721728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_53
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 48
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3915ee87ff02da9b0800000000000000
+      internalID: -5067357724104306285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_54
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcf9b064daf47240800000000000000
+      internalID: 4788728093864492280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09789a2c62d81e510800000000000000
+      internalID: 1576696542170548112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_56
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 47
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1334cedabba54b7d0800000000000000
+      internalID: -2903596097623801039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_57
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 48
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca3bc03f39f7a860800000000000000
+      internalID: 7541270150852065986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_58
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9c223e0054c9bc0800000000000000
+      internalID: -3775066517530293829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0634d5ef9785b3180800000000000000
+      internalID: -9134610138209107104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_60
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d47bf2d87abbbd0800000000000000
+      internalID: -2613310933925671672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_61
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1331f4d1b606f80800000000000000
+      internalID: -8115368754896752179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_62
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9b1a7a6fdbbf6f0800000000000000
+      internalID: -649716854152906308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_63
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad00140328df53480800000000000000
+      internalID: -8919944751340257062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1707e4fa0d54374c0800000000000000
+      internalID: -4291009257357283215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_65
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0a5f9401610a890800000000000000
+      internalID: -7448929524454678340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_66
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf0d4b7f7d524680800000000000000
+      internalID: -8772346322053427277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_67
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fa8b25bc74d80d0800000000000000
+      internalID: -3418997603512570052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceb973872dde5340800000000000000
+      internalID: 4854560610131230407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_69
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7a965de448ffab0800000000000000
+      internalID: -4972109989470951429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_70
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 48
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db3530855ebeb4e0800000000000000
+      internalID: -1963923113054487598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_71
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 39
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f9a045a4d1a9cf0800000000000000
+      internalID: -244851024663503045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_72
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 48
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298e594c826f790e0800000000000000
+      internalID: -2263069632773101422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e36bba233381b880800000000000000
+      internalID: -8596945957890071582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 39
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee64830f677f1ad0800000000000000
+      internalID: -2729331530479145242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_75
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f840b6168a060acf0800000000000000
+      internalID: -243088103572831089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_76
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2226815662f594020800000000000000
+      internalID: 2326495301023064610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_77
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f64af2c9a8afa900800000000000000
+      internalID: 697961914339837684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_78
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143abaf7dcc8325d0800000000000000
+      internalID: -3088470105207889087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 37
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9532ec35ba924e840800000000000000
+      internalID: 5252368881243005785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_80
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 35
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0178c7d2a882dc0800000000000000
+      internalID: -3663526368898510651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_81
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 39
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16d65fb2ca038480800000000000000
+      internalID: -8898256607203895780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_82
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 37
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e19e85d6b07aa50800000000000000
+      internalID: 6532202348795207181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_83
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8babeb0d7537b170800000000000000
+      internalID: 8194076858211085196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_84
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925bf0de2f18f60a0800000000000000
+      internalID: -6886142424866900695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_85
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c909cbf6907ec0190800000000000000
+      internalID: -7994761210774122340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_86
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 37
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0114f22b810b70460800000000000000
+      internalID: 7207923348744913168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_87
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91e0ae84b0042a70800000000000000
+      internalID: 8801160347275813276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_88
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634c9271fd00f8990800000000000000
+      internalID: -7381680306070633418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11df9666eb3e94a90800000000000000
+      internalID: -7329076511667258095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_90
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b66298edc99b88e0800000000000000
+      internalID: -1690088125498235210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_91
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83051091bec866200800000000000000
+      internalID: 172980577065062456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_92
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 37
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53de3db6873286a30800000000000000
+      internalID: 4208652851889827125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_93
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0979cb185754bacb0800000000000000
+      internalID: -4851707802571466864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_94
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ffc2c21d90f0ea0800000000000000
+      internalID: -5904489792465469571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_95
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6099f6a6de5ddc140800000000000000
+      internalID: 4741681198360664326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_96
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943794d53c72a2a50800000000000000
+      internalID: 6497049132472562505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_97
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 37
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a14cb748a252e070800000000000000
+      internalID: 8134154759696040361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_98
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e628665c347b6ac0800000000000000
+      internalID: -3860864453043542297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_99
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e1bb18cf1973580800000000000000
+      internalID: -8847442429251740113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_100
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 38
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f47b1b6ff9cfd40800000000000000
+      internalID: 5619542316943888185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_101
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 38
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1d811479bdd75c0800000000000000
+      internalID: -4215972233470225992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_102
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 38
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49085e06e53479540800000000000000
+      internalID: 5014550782731976852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_103
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 38
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28899d0a9be04750800000000000000
+      internalID: 6287284126694869035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_104
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f268e59e5b19ff80800000000000000
+      internalID: -8072390764028992781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 37
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc978acaab3ae720800000000000000
+      internalID: 2876176916757847285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_106
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 41
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8fbe31af87a3340800000000000000
+      internalID: 4844317364661778642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_107
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 38
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568675338340b9880800000000000000
+      internalID: -8603278023735154587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_108
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 38
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cea747be27519170800000000000000
+      internalID: 8183417856063942342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bfdfce61c32f520800000000000000
+      internalID: 2734313992930327414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6990c46537112d180800000000000000
+      internalID: -9092185510640875114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_111
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 26
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737de718406e29aa0800000000000000
+      internalID: -6155604833635215561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_112
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 26
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890d818906da2a950800000000000000
+      internalID: 6458915445982941336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_113
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 26
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2632c9ae558414100800000000000000
+      internalID: 90433001369641826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_114
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 26
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d57c3485e753630800000000000000
+      internalID: 3906167169373134186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_115
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 26
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f7da9bee1994c10800000000000000
+      internalID: 2038320760865259367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_116
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd90766a2d7a1af30800000000000000
+      internalID: 4585130418816616924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_117
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444449b6c39640c30800000000000000
+      internalID: 4324697250406351940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_118
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 26
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec18e30dc9d5d950800000000000000
+      internalID: 6473319513972022508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_119
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 26
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfc36db95bb8b600800000000000000
+      internalID: 484342954046246840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_120
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 26
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8938fe384a1eb310800000000000000
+      internalID: 1422603429892077963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_121
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95591dd99ece21820800000000000000
+      internalID: 2887630799217202521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_122
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 25
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996bef30b89b69010800000000000000
+      internalID: 1195346757832062617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_123
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 26
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dd1ad47401d15e0800000000000000
+      internalID: -1937374366268269279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearth_124
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e415e915cfc6303d0800000000000000
+      internalID: -3241627475819736754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hearth_0: -6176110321221878314
+      Hearth_1: 4202404719813809715
+      Hearth_10: -4739756941035401776
+      Hearth_100: 5619542316943888185
+      Hearth_101: -4215972233470225992
+      Hearth_102: 5014550782731976852
+      Hearth_103: 6287284126694869035
+      Hearth_104: -8072390764028992781
+      Hearth_105: 2876176916757847285
+      Hearth_106: 4844317364661778642
+      Hearth_107: -8603278023735154587
+      Hearth_108: 8183417856063942342
+      Hearth_109: 2734313992930327414
+      Hearth_11: 8089430339936339421
+      Hearth_110: -9092185510640875114
+      Hearth_111: -6155604833635215561
+      Hearth_112: 6458915445982941336
+      Hearth_113: 90433001369641826
+      Hearth_114: 3906167169373134186
+      Hearth_115: 2038320760865259367
+      Hearth_116: 4585130418816616924
+      Hearth_117: 4324697250406351940
+      Hearth_118: 6473319513972022508
+      Hearth_119: 484342954046246840
+      Hearth_12: -1336810723213089005
+      Hearth_120: 1422603429892077963
+      Hearth_121: 2887630799217202521
+      Hearth_122: 1195346757832062617
+      Hearth_123: -1937374366268269279
+      Hearth_124: -3241627475819736754
+      Hearth_13: -4721911654026467767
+      Hearth_14: -5049950442289438492
+      Hearth_15: -7483740802328017738
+      Hearth_16: -8460717565295397706
+      Hearth_17: 5889222049686102336
+      Hearth_18: -783824077043358396
+      Hearth_19: -7408201350555894320
+      Hearth_2: 6518848541423996108
+      Hearth_20: -2556543038900362546
+      Hearth_21: -7083702117879273302
+      Hearth_22: 5904253505398947899
+      Hearth_23: 5228531960538041701
+      Hearth_24: -6918954748161936869
+      Hearth_25: 7509211102874193727
+      Hearth_26: 670930709730605555
+      Hearth_27: 1320106188135746107
+      Hearth_28: -7010876347481780574
+      Hearth_29: -6120205872039851744
+      Hearth_3: -7372539750381239285
+      Hearth_30: -8461983683742288014
+      Hearth_31: 7841001099499588851
+      Hearth_32: -6521842526836043622
+      Hearth_33: 1197527002079973712
+      Hearth_34: 8531809922126002548
+      Hearth_35: 9202571284369567235
+      Hearth_36: -8547428750231182485
+      Hearth_37: -5666291963299048239
+      Hearth_38: -8958930063293508264
+      Hearth_39: 1151382697653082756
+      Hearth_4: -4803809014963250658
+      Hearth_40: -4140377179827036066
+      Hearth_41: -2308963611260596568
+      Hearth_42: -5772248425800388875
+      Hearth_43: 6885923003956331805
+      Hearth_44: 6650886179764203079
+      Hearth_45: 4297229654352219752
+      Hearth_46: 924565572586368388
+      Hearth_47: -798038898554435686
+      Hearth_48: 605810188030333022
+      Hearth_49: -5481895176813773580
+      Hearth_5: -4422310086201186722
+      Hearth_50: -6495520532443510533
+      Hearth_51: 950971123762417781
+      Hearth_52: -1498111040706721728
+      Hearth_53: -5067357724104306285
+      Hearth_54: 4788728093864492280
+      Hearth_55: 1576696542170548112
+      Hearth_56: -2903596097623801039
+      Hearth_57: 7541270150852065986
+      Hearth_58: -3775066517530293829
+      Hearth_59: -9134610138209107104
+      Hearth_6: -7857572074573950141
+      Hearth_60: -2613310933925671672
+      Hearth_61: -8115368754896752179
+      Hearth_62: -649716854152906308
+      Hearth_63: -8919944751340257062
+      Hearth_64: -4291009257357283215
+      Hearth_65: -7448929524454678340
+      Hearth_66: -8772346322053427277
+      Hearth_67: -3418997603512570052
+      Hearth_68: 4854560610131230407
+      Hearth_69: -4972109989470951429
+      Hearth_7: 5704981462970415284
+      Hearth_70: -1963923113054487598
+      Hearth_71: -244851024663503045
+      Hearth_72: -2263069632773101422
+      Hearth_73: -8596945957890071582
+      Hearth_74: -2729331530479145242
+      Hearth_75: -243088103572831089
+      Hearth_76: 2326495301023064610
+      Hearth_77: 697961914339837684
+      Hearth_78: -3088470105207889087
+      Hearth_79: 5252368881243005785
+      Hearth_8: 733130372892989281
+      Hearth_80: -3663526368898510651
+      Hearth_81: -8898256607203895780
+      Hearth_82: 6532202348795207181
+      Hearth_83: 8194076858211085196
+      Hearth_84: -6886142424866900695
+      Hearth_85: -7994761210774122340
+      Hearth_86: 7207923348744913168
+      Hearth_87: 8801160347275813276
+      Hearth_88: -7381680306070633418
+      Hearth_89: -7329076511667258095
+      Hearth_9: -9131796410804170317
+      Hearth_90: -1690088125498235210
+      Hearth_91: 172980577065062456
+      Hearth_92: 4208652851889827125
+      Hearth_93: -4851707802571466864
+      Hearth_94: -5904489792465469571
+      Hearth_95: 4741681198360664326
+      Hearth_96: 6497049132472562505
+      Hearth_97: 8134154759696040361
+      Hearth_98: -3860864453043542297
+      Hearth_99: -8847442429251740113
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
