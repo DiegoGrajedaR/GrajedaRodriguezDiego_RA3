@@ -17,11 +17,13 @@ public class PlayerController : MonoBehaviour, InputSystem_Actions.IGameplayPlay
 
     private Rigidbody2D rb;
     private SpriteRenderer sp;
+    private Animator animator;
 
     private void Awake() 
     {
         rb = GetComponent<Rigidbody2D>();
         sp = GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
 
         // TODO: Crea el new inputActions
         // TODO: Fes que els Callbacks avisin aquest script
@@ -75,6 +77,16 @@ public class PlayerController : MonoBehaviour, InputSystem_Actions.IGameplayPlay
     void Update() 
     {
         rb.linearVelocity = new Vector2(directionMove.x * speed, rb.linearVelocity.y);
+        
+        animator.SetBool("isMoving", directionMove.x * speed != 0);
+        if (directionMove.x < 0)
+        {
+            sp.flipX = true;
+        }
+        else if (directionMove.x > 0)
+        {
+            sp.flipX = false;
+        }
 
     }
 
