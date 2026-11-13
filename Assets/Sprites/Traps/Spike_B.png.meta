@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: b47a2c1a4c2130141a32ab207aedac51
+guid: daed147ff99f62649a8b70ea57d5135e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4380866032584714435
-    second: JUMP-FALL_0
-  - first:
-      213: 3098360952774597818
-    second: JUMP-FALL_1
-  - first:
-      213: -3744631612321063829
-    second: JUMP-FALL_2
+      213: -3804453786874968470
+    second: Spike_B_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: JUMP-FALL_0
+      name: Spike_B_0
       rect:
         serializedVersion: 2
-        x: 36
-        y: 10
-        width: 38
-        height: 47
+        x: 0
+        y: 9
+        width: 320
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,52 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d37963fdd890433c0800000000000000
-      internalID: -4380866032584714435
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: JUMP-FALL_1
-      rect:
-        serializedVersion: 2
-        x: 148
-        y: 10
-        width: 38
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: abc1218eed69ffa20800000000000000
-      internalID: 3098360952774597818
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: JUMP-FALL_2
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 10
-        width: 38
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b6c97e47365680cc0800000000000000
-      internalID: -3744631612321063829
+      spriteID: a668dec007dd33bc0800000000000000
+      internalID: -3804453786874968470
       vertices: []
       indices: 
       edges: []
@@ -185,9 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      JUMP-FALL_0: -4380866032584714435
-      JUMP-FALL_1: 3098360952774597818
-      JUMP-FALL_2: -3744631612321063829
+      Spike_B_0: -3804453786874968470
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
