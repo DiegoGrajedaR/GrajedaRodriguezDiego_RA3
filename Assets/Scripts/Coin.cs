@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
-    private int points = 100;
+    private int value = 100;
     [SerializeField] private AudioClip audioClip;
     private SpriteRenderer coinRenderer;
     private bool isCollected = false;
