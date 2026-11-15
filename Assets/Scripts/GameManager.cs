@@ -1,5 +1,7 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System;
 
 public class GameManager : MonoBehaviour
 {
@@ -11,6 +13,11 @@ public class GameManager : MonoBehaviour
     [SerializeField] private string gameOverScene = "GameOver";
     [SerializeField] private string victoryScene = "Victory";
 
+    public PauseManager pauseManager;
+
+    public static event Action<int> OnChangeLives;
+    public static event Action<int> OnChangeScore;
+ 
 
     public int lives;
     public int score;
@@ -62,6 +69,7 @@ public class GameManager : MonoBehaviour
         if (lives <= 0)
         {
             SceneManager.LoadScene(gameOverScene);
+            OnChangeLives?.Invoke(lives);
         }
         else
         {
@@ -116,5 +124,6 @@ public class GameManager : MonoBehaviour
     public void AddScore(int value) 
     {
         score += value;
+        OnChangeScore?.Invoke(score);
     }
 }

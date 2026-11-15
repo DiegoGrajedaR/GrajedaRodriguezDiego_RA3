@@ -10,6 +10,7 @@ public class LevelExit : MonoBehaviour
 
         if (player == null) return;
 
+        AudioManager.Instance.PlayLvlComplete();
         levelManager.CompleteLevel();
     }
 }

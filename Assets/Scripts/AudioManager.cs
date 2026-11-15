@@ -8,6 +8,8 @@ public class AudioManager : MonoBehaviour
 
     public AudioSource audioSource;
     public AudioClip coinSound;
+    public AudioClip hitPlayerSound;
+    public AudioClip lvlCompleteSound;
 
     [System.Serializable]
     public class SceneMusic 
@@ -35,6 +37,14 @@ public class AudioManager : MonoBehaviour
     public void PlayCoinSound()
     {
         audioSource.PlayOneShot(coinSound);
+    }
+    public void PlayHitPlayerSound()
+    {
+        audioSource.PlayOneShot(hitPlayerSound);
+    }
+    public void PlayLvlComplete()
+    {
+        audioSource.PlayOneShot(lvlCompleteSound);
     }
 
     private void OnDestroy()

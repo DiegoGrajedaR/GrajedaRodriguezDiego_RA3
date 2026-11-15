@@ -1,5 +1,7 @@
 using System.Net.NetworkInformation;
+using TMPro;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class PauseManager : MonoBehaviour
 {

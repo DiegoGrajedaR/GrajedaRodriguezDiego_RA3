@@ -11,6 +11,7 @@ public class PlayerHealth : MonoBehaviour
 
         isDead = true;
 
+        AudioManager.Instance.PlayHitPlayerSound();
         GameManager.Instance.PlayerDied();
     }
 }

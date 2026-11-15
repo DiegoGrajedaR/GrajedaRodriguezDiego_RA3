@@ -15,7 +15,7 @@ public class Coin : MonoBehaviour
             isCollected = true;
             coinRenderer.enabled = false;
 
-            //GameManager.Instance.AddScore(points);
+            GameManager.Instance.AddScore(value);
             AudioManager.Instance.PlayCoinSound();
             Destroy(gameObject, audioClip.length);
 
