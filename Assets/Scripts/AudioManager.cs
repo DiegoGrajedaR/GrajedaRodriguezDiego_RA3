@@ -53,6 +53,12 @@ public class AudioManager : MonoBehaviour
         {
             PlayMusic(newClip);
         }
+        else 
+        {
+            audioSource.Stop();
+            audioSource.clip = null;
+            return;
+        }
     }
 
     private AudioClip GetMusicForScene(string sceneName)

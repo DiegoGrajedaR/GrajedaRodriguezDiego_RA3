@@ -46,6 +46,7 @@ public class GameManager : MonoBehaviour
     //TODO: Metode per simplement al carregar la escena el Player no estigui mort
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
+        Time.timeScale = 1f;
         isPlayerDead = false;
     }
 
@@ -74,6 +75,8 @@ public class GameManager : MonoBehaviour
         lives = startLives;
         score = 0;
 
+        Time.timeScale = 1f;
+
         SceneManager.LoadScene(firstLvlScene);
     }
 
@@ -81,7 +84,6 @@ public class GameManager : MonoBehaviour
     public void RestartCurrentLevel() 
     {
         Time.timeScale = 1f;
-        isPlayerDead = false;
 
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
@@ -106,6 +108,7 @@ public class GameManager : MonoBehaviour
     //TODO: Sortir del joc
     public void ExitGame() 
     {
+        Debug.Log("Sortint del joc...");
         Application.Quit();
     }
 

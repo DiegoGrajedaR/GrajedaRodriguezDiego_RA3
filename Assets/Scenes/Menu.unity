@@ -705,6 +705,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: AudioManager
       objectReference: {fileID: 0}
+    - target: {fileID: 2905503880754542437, guid: 65cec8c5198127849879fecaac40d7d0, type: 3}
+      propertyPath: sceneMusicList.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2905503880754542437, guid: 65cec8c5198127849879fecaac40d7d0, type: 3}
+      propertyPath: sceneMusicList.Array.data[5].musicClip
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2905503880754542437, guid: 65cec8c5198127849879fecaac40d7d0, type: 3}
+      propertyPath: sceneMusicList.Array.data[5].sceneName
+      value: Victory
+      objectReference: {fileID: 0}
+    - target: {fileID: 2905503880754542437, guid: 65cec8c5198127849879fecaac40d7d0, type: 3}
+      propertyPath: sceneMusicList.Array.data[6].sceneName
+      value: GameOver
+      objectReference: {fileID: 0}
     - target: {fileID: 7654787268310501830, guid: 65cec8c5198127849879fecaac40d7d0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13.11142
@@ -811,8 +827,8 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.25882354, g: 0.013883919, b: 0.98039216, a: 1}
+    m_HighlightedColor: {r: 1, g: 0.40392157, b: 0, a: 1}
+    m_PressedColor: {r: 0.6431373, g: 0.2509804, b: 0.2509804, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -833,8 +849,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 5729747781481569858}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
+      - m_Target: {fileID: 1408212868}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
         m_MethodName: ExitGame
         m_Mode: 1
         m_Arguments:
@@ -883,6 +899,50 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 896475472}
   m_CullTransparentMesh: 1
+--- !u!1 &1408212867
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1408212869}
+  - component: {fileID: 1408212868}
+  m_Layer: 0
+  m_Name: MenuController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1408212868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1408212867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db94a9d9e3c4e9d4f8ebf30b34cfd4db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MenuController
+--- !u!4 &1408212869
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1408212867}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.80608, y: -4.80825, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1952969018
 GameObject:
   m_ObjectHideFlags: 0
@@ -944,9 +1004,9 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.25823355, g: 0.015686247, b: 0.98039216, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_HighlightedColor: {r: 1, g: 0.4028268, b: 0, a: 1}
+    m_PressedColor: {r: 0.6415094, g: 0.251157, b: 0.251157, a: 1}
+    m_SelectedColor: {r: 1, g: 1, b: 1, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
@@ -966,9 +1026,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 5729747781481569858}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: StartNewGame
+      - m_Target: {fileID: 1408212868}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: StartGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1252,17 +1312,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92a6e213f6d152d42b29b319a41012bf, type: 3}
---- !u!114 &5729747781481569858 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 7673599355753901229, guid: 92a6e213f6d152d42b29b319a41012bf, type: 3}
-  m_PrefabInstance: {fileID: 5729747781481569857}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6d92492924be2424c83529db93eb4b50, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::GameManager
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -1270,6 +1319,7 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 5729747781481569857}
   - {fileID: 714462839}
+  - {fileID: 1408212869}
   - {fileID: 619394802}
   - {fileID: 2111793269}
   - {fileID: 579432455}

@@ -46,6 +46,8 @@ public class PlayerController : MonoBehaviour, InputSystem_Actions.IGameplayPlay
 
     public void OnFlipGravity(InputAction.CallbackContext context)
     {
+        if (PauseManager.isPaused) return;
+
         if (!context.performed) return;
 
         if (IsGrounded())
@@ -76,6 +78,8 @@ public class PlayerController : MonoBehaviour, InputSystem_Actions.IGameplayPlay
 
     void Update() 
     {
+        if (PauseManager.isPaused) return;
+
         rb.linearVelocity = new Vector2(directionMove.x * speed, rb.linearVelocity.y);
         
         animator.SetBool("isMoving", directionMove.x * speed != 0);
